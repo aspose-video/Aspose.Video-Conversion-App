@@ -1,0 +1,9 @@
+/FFmpeg.NET/bin
+/FFmpeg.NET/obj
+/Video.Apis/bin
+/Video.Apis/obj
+/Video.Conversion/bin
+/Video.Conversion/obj
+/Video.Conversion/*.user
+/Video.Pages/bin
+/Video.Pages/obj
